@@ -50,3 +50,9 @@ Nesse curso voce vai aprender _do zero ao profissional._
 puts "Hello World"
 
 ```
+
+
+**Criando uma TASKLIST**
+
+- [x] Site responsivo
+- [v] Finalizamos a tarefa
