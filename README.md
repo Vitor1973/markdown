@@ -24,7 +24,12 @@ Nesse curso voce vai aprender _do zero ao profissional._
 [ ruby](https://www.ruby-lang.org/pt/documentation/quickstart/)
 
 
-## Listas Ordenadas ##
-* Listas ordenadas
+## Listas Não-Ordenadas ##
+* Listas não-ordenadas
 * Pontinho da lista
 * Basta um asterisco
+
+## Listas Ordenadas ##
+1. Lista ordenada
+2. Tudo arrumadinho
+3. Curso Git recomendo
