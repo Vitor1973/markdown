@@ -39,3 +39,14 @@ Nesse curso voce vai aprender _do zero ao profissional._
 >>> Mais um filho do blockquote
 
 
+**Uso do HTML:**
+```html
+<p>Usando linguagem de programação !!!</p>
+
+````
+
+**Usando Ruby:**
+```ruby
+puts "Hello World"
+
+```
