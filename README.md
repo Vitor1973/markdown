@@ -55,4 +55,4 @@ puts "Hello World"
 **Criando uma TASKLIST**
 
 - [x] Site responsivo
-- [v] Finalizamos a tarefa
+- [m] Finalizamos a tarefa
