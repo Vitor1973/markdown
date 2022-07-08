@@ -1,7 +1,7 @@
 # Bem Vindo ao curso Git e GitHub
-Nesse curso voce vai aprender do zero ao profissional.
+Nesse curso voce vai aprender _do zero ao profissional._
 
-## Vai entender toda a estrutura do GitHub
+## Vai entender toda a estrutura do **GitHub**
 
 ### Titulo h3
 #### Titulo h4
