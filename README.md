@@ -56,3 +56,14 @@ puts "Hello World"
 
 - [x] Site responsivo
 - [x] Finalizamos a tarefa
+
+**Criando Tabela**
+
+Propriedade | Descrição |
+|---------- | ---------- |
+name | Informar o nome do usuario
+cpf | numero de documento
+Rg | numero do documento
+idade | idade do usuario
+Celular | numero de contato
+
